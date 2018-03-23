@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+#Auth:Qing.Yu
+#Mail:1753330141@qq.com
+# Ver:V1.0
+#Date:2016-09-13
 
 import Connectivity
 import Systems 
